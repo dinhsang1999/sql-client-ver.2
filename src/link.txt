@@ -1,0 +1,13 @@
+--------Create ODBC database-----------
+https://medium.com/pythoneers/how-to-connect-pyodbc-to-sql-server-using-python-5bb6ae7c9ea8
+https://learn.microsoft.com/en-us/sql/database-engine/configure-windows/open-the-odbc-data-source-administrator?view=sql-server-ver16
+
+
+-------QUERY--------------------------------
+https://datatofish.com/create-table-sql-server-python/
+https://nbviewer.org/github/israel-dryer/Python-Tutorials/blob/master/pyodbc-tutorials/Connect-To-Microsoft-SQL-Server.ipynb
+
+----OTHER--------------------------------
+https://viblo.asia/p/sql-data-types-L4x5xGerlBM
+https://www.youtube.com/watch?v=FStvfHABnNc
+https://www.youtube.com/watch?v=0E4AuCqgN90
